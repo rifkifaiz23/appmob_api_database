@@ -1,0 +1,17 @@
+Array
+(
+    [image] => Array
+        (
+            [name] => profile_image_1719561958839.jpg
+            [full_path] => profile_image_1719561958839.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpC400.tmp
+            [error] => 0
+            [size] => 59453
+        )
+
+)
+Array
+(
+    [email] => ready@gmail.com
+)
